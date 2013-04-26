@@ -1,0 +1,5 @@
+<library path="lib/libMocapKalman">
+  <class name="mocap_kalman/MocapKalman" type="mocap_kalman::MocapKalman" base_class_type="nodelet::Nodelet">
+  <description>Creates a Odom message based on transforms coming from the Mocap system</description>
+  </class>
+</library>
